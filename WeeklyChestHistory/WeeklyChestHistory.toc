@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: Weekly Chest History
+## Notes: Weekly Rewards
+## Version 0.1
+## SavedVariables: WeeklyRewardsSave
+WeeklyChestHistory.lua
